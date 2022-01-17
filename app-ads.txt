@@ -4,3 +4,4 @@ google.com, pub-1794946920509595, DIRECT, f08c47fec0942fa0
 adcolony.com,app67622758ae3b47a59e,RESELLER,pGwIdIJ9j9n5RRpIJZV
 adcolony.com,app67622758ae3b47a59e,DIRECT,pGwIdIJ9j9n5RRpIJZV
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+adingo.jp, 26785, RESELLER
